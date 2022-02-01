@@ -1,0 +1,12 @@
+.card {
+    width: 100%;
+    align-items: center;
+    text-align: center;
+}
+
+.form-group {
+    width: 50%;
+}
+.title-alert,.note-alert{
+    display: none;
+}
